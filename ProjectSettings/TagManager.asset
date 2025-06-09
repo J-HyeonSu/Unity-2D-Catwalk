@@ -8,6 +8,7 @@ TagManager:
   - Score30
   - Score50
   - Gameover
+  - Ground
   layers:
   - Default
   - TransparentFX
